@@ -1,4 +1,4 @@
-# Person Class
+# Intro to Enums
 
 * **Objective** - To create a `Person` class which encapsulates details about the respective instance's `firstName` and `lastName`.
 * **Purpose** - To gain familiarity basic object orientation
